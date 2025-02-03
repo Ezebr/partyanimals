@@ -8,15 +8,15 @@
 
 1. 界面展示
 
-   <img src="\Markdown\MyBlog\img\PixPin_2025-02-03_11-22-53.png" alt="PixPin_2025-02-03_11-22-53" style="zoom: 33%;" />
+   <img src="\Markdown\1.png" alt="PixPin_2025-02-03_11-22-53" style="zoom: 33%;" />
 
 2. 多选重叠
 
-   <img src="\Markdown\MyBlog\img\image-20250203112707887.png" alt="image-20250203112707887" style="zoom:33%;" />
+   <img src="\Markdown\2.png" alt="image-20250203112707887" style="zoom:33%;" />
 
 3. Not Found提示
 
-   <img src="\Markdown\MyBlog\img\PixPin_2025-02-03_11-32-51.png" alt="PixPin_2025-02-03_11-32-51" style="zoom: 33%;" />
+   <img src="\Markdown\3.png" alt="PixPin_2025-02-03_11-32-51" style="zoom: 33%;" />
 
 ​	该程序复用性较好，若有后续更新，大家可自己在`复选框选项配置`一类中增添分类；在相应的`动物数据`后添加对应名字，添加图片到`images文件夹`*（命名规则：对应名字.png）*。
 
